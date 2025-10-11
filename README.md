@@ -15,5 +15,5 @@ Cada subcarpeta contiene proyectos con su propio `README.md` explicando el objet
 ## 👨‍💻 Autor
 **Jhon Taborda**  
 Ingeniero de Datos | ETL | Teradata | PowerCenter | PySpark | GCP | Pandas  
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:tu-correo@ejemplo.com)
+[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jhon-estip-taborda-bb928018b/)) | [Email](mailto:tu-correo@ejemplo.com)
 
